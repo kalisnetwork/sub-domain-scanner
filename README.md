@@ -12,7 +12,7 @@ This is a simple Python script that allows you to scan for subdomains of a targe
 
 4. Run the script by opening a terminal and navigating to the directory containing the `subdomain-scanner.py` script. Then execute the following command:
 
-python subdomain-scanner.py
+`python subdomain-scanner.py`
 
 
 5. Follow the prompts to enter the target domain and the path to your wordlist file.
@@ -33,10 +33,5 @@ python subdomain-scanner.py
 
 Contributions and improvements to this script are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 Disclaimer: This script is provided as-is and the author takes no responsibility for any misuse or damage caused by using this script. Use it responsibly and ethically.
