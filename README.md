@@ -2,6 +2,10 @@
 
 This is a simple Python script that allows you to scan for subdomains of a target domain using a user-provided wordlist.
 
+![scanned](https://github.com/kalisnetwork/sub-domain-scanner/assets/106701723/5fd7fb4e-0b22-4476-bbca-b505aea9b2de)
+
+
+
 ## Usage
 
 1. Make sure you have Python installed on your system.
